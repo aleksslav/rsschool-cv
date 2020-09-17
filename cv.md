@@ -56,12 +56,12 @@ function closeOrderForm(event) {
 }
 ```
 
-##Education:
+## Education:
 
 Higher education. Technical University of Moldova.
 Engineer-Technologist. 
 
-##Language competencies:
+## Language competencies:
 
  * Russian: native language
  * English: intermediate (B1)
